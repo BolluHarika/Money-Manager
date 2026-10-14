@@ -1,0 +1,31 @@
+# Compiled class files & build artifacts
+target/
+**/target/
+build/
+**/build/
+out/
+**/out/
+
+# Dependencies
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+
+# IDE configurations
+.idea/
+**/.idea/
+*.iml
+**/*.iml
+.vscode/
+**/.vscode/
+
+# Environment and secrets
+.env
+**/.env
+*.local
+
+# OS files
+.DS_Store
+**/.DS_Store
+Thumbs.db
