@@ -21,8 +21,9 @@ dist/
 **/.vscode/
 
 # Environment and secrets
-.env
-**/.env
+.env*
+**/.env*
+render-env.txt
 *.local
 
 # OS files
